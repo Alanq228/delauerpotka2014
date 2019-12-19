@@ -1,0 +1,11 @@
+<!--
+// Add to Cart
+
+function AddToCart(item_id) {
+
+ var URL = 'http://www.wrasserecords.com/cgi-bin/cart.pl?action=add&id='+item_id;
+ window.open(URL,"_self");
+ return false;
+
+}
+-->
